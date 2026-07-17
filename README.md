@@ -43,6 +43,14 @@ Y = A · B
 
 ---
 
+## Waveform
+The following waveform verifies the functionality of the design.
+<p align="center">
+<img width="877" height="172" alt="Image" src="https://github.com/user-attachments/assets/b5588b0f-d085-48b0-9e4f-df2a53de317b" />
+</p>
+
+---
+
 ## 2. OR Gate
 
 ### Description
@@ -66,7 +74,16 @@ Y = A + B
 
 ---
 
-## 4. NAND Gate
+## Waveform
+
+The following waveform verifies the functionality of the design.
+<p align="center">
+<img width="877" height="177" alt="Image" src="https://github.com/user-attachments/assets/bcbd0e49-109d-4251-aa58-07b35b572885" />
+</p>
+
+---
+
+## 3. NAND Gate
 
 ### Description
 
@@ -89,7 +106,16 @@ Y = (A · B)'
 
 ---
 
-## 5. NOR Gate
+## Waveform
+
+The following waveform verifies the functionality of the design.
+<p align="center">
+<img width="877" height="187" alt="Image" src="https://github.com/user-attachments/assets/48aa3482-3473-40e3-9e65-bee0d0fa12f6" />
+</p>
+
+---
+
+## 4. NOR Gate
 
 ### Description
 
@@ -112,7 +138,16 @@ Y = (A + B)'
 
 ---
 
-## 6. XOR Gate
+## Waveform
+
+The following waveform verifies the functionality of the design.
+<p align="center">
+<img width="873" height="175" alt="Image" src="https://github.com/user-attachments/assets/42261917-4aaf-4c2f-8306-bd00e6e25c71" />
+</p>
+
+---
+
+## 5. XOR Gate
 
 ### Description
 
@@ -134,8 +169,15 @@ Y = A ⊕ B
 |1|1|0|
 
 ---
+### Waveform
 
-## 7. XNOR Gate
+The following waveform verifies the functionality of the design.
+<p align="center">
+<img width="870" height="176" alt="Image" src="https://github.com/user-attachments/assets/935aae79-e95e-4a05-9499-b877e4ce38d7" />
+</p>
+
+---
+## 6. XNOR Gate
 
 ### Description
 
@@ -155,6 +197,15 @@ Y = (A ⊕ B)'
 |0|1|0|
 |1|0|0|
 |1|1|1|
+
+---
+
+### Waveform
+
+The following waveform verifies the functionality of the design.
+<p align="center">
+<img width="877" height="177" alt="Image" src="https://github.com/user-attachments/assets/11ac4949-40ec-4031-9932-3f52dd624ead" />
+</p>
 
 ---
 
