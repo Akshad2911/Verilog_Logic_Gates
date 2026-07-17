@@ -46,7 +46,7 @@ Y = A · B
 ## Waveform
 The following waveform verifies the functionality of the design.
 <p align="center">
-<img width="877" height="172" alt="Image" src="https://github.com/user-attachments/assets/b5588b0f-d085-48b0-9e4f-df2a53de317b" />
+<img width="877" height="172" alt="Image" src="https://github.com/user-attachments/assets/94d31652-99bf-4458-af76-e7a4ca9029d4" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Y = A + B
 
 The following waveform verifies the functionality of the design.
 <p align="center">
-<img width="877" height="177" alt="Image" src="https://github.com/user-attachments/assets/bcbd0e49-109d-4251-aa58-07b35b572885" />
+<img width="877" height="177" alt="Image" src="https://github.com/user-attachments/assets/62b1f127-7a97-4177-ae9d-e020908fe0f1" />
 </p>
 
 ---
@@ -110,7 +110,7 @@ Y = (A · B)'
 
 The following waveform verifies the functionality of the design.
 <p align="center">
-<img width="877" height="187" alt="Image" src="https://github.com/user-attachments/assets/48aa3482-3473-40e3-9e65-bee0d0fa12f6" />
+<img width="877" height="187" alt="Image" src="https://github.com/user-attachments/assets/0b411d1a-453e-4db9-93d0-a4756a919b48" />
 </p>
 
 ---
@@ -142,7 +142,7 @@ Y = (A + B)'
 
 The following waveform verifies the functionality of the design.
 <p align="center">
-<img width="873" height="175" alt="Image" src="https://github.com/user-attachments/assets/42261917-4aaf-4c2f-8306-bd00e6e25c71" />
+<img width="873" height="175" alt="Image" src="https://github.com/user-attachments/assets/78273f33-2606-4f8b-999d-0b39d0f24f93" />
 </p>
 
 ---
@@ -173,7 +173,7 @@ Y = A ⊕ B
 
 The following waveform verifies the functionality of the design.
 <p align="center">
-<img width="870" height="176" alt="Image" src="https://github.com/user-attachments/assets/935aae79-e95e-4a05-9499-b877e4ce38d7" />
+<img width="870" height="176" alt="Image" src="https://github.com/user-attachments/assets/ad77f357-7861-4cd6-8b45-6375cd7cf129" />
 </p>
 
 ---
@@ -204,7 +204,7 @@ Y = (A ⊕ B)'
 
 The following waveform verifies the functionality of the design.
 <p align="center">
-<img width="877" height="177" alt="Image" src="https://github.com/user-attachments/assets/11ac4949-40ec-4031-9932-3f52dd624ead" />
+<img width="877" height="177" alt="Image" src="https://github.com/user-attachments/assets/af931888-604b-48c0-88fc-1450e9ee690b" />
 </p>
 
 ---
